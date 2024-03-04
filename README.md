@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Daniel Giczi
     - Born as a Software Engineer and geek
     - Since 1993
-    - Getting more human over time
 - 👀 I’m interested in...
     - Hi-Fidelity Audio
     - Drifting and Racing simulation
